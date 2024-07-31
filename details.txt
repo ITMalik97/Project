@@ -1,0 +1,6 @@
+1111 London Bari 15:00 21:50 2000 passenger 200 150 ontime -
+3112 Lisbon Cyon 15:30 23:40 2000 passenger 250 200 ontime -
+1233 London Bari 13:20 16:50 1500 passenger 200 140 ontime -
+1234 Cyon Lisbon 12:00 16:30 1000 passenger 300 267  -     cancelled
+3111  London  Cyon  19:20  14:30  2100  passenger  240  230  delayed -
+3113  Cyon  Bari  13:00  20:00  1500  passenger  200  189  - cancelled
