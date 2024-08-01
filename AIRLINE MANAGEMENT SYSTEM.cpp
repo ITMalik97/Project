@@ -79,7 +79,7 @@ int main() {
 			cout << "6. Passenger information \n"; // 8
 			cout << "7. Book reservation \n"; // 7
 			cout << "8. Cancel reservation \n"; // 9
-			cout << "9. Shortest Distance to your destination \n"; // 6
+			cout << "9. Optimized Distance \n"; // 6
 			cout << "0. Exit \n\n"; // 10
 			
 			cout << "-----------------------------------------------" << endl;
