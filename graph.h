@@ -3,6 +3,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <map>
 
 #define INFINITY 9999
 using namespace std;
