@@ -1,12 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <string>
 #include <vector>
-#include <map>
-#include <list>
-#include <algorithm>
-#include <iomanip>
 
 #define INFINITY 9999
 using namespace std;
